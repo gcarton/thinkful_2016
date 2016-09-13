@@ -1,0 +1,4 @@
+if isinstance( arg[1:], int ):
+    n = arg[1:]
+import sys
+for arg in sys.argv[1:]:
